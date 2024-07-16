@@ -38,7 +38,7 @@ PANDOC_COMMAND = pandoc
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
-EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
+EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --highlight-style templates/syntax.theme
 HTML_ARGS = --template templates/html.html --standalone --to html5
 PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
 
