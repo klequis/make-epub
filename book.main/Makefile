@@ -15,7 +15,7 @@ IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = --webtex
-THEME_FILE = templates/new.theme
+THEME_FILE = templates/atom-one-light.theme
 
 # Chapters content
 CONTENT = awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(CHAPTERS)

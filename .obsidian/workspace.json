@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "aa56d74055627867",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbf7482587e64ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8b74613a5c7f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e398661d1a3fa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decide theme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62114f64b40f7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a1a2f59a912b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d587a45413d1c25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6deb06782c60e7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5479de5ae8d5b46b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a110cb9f668bb708",
+    "type": "split",
+    "children": [
+      {
+        "id": "792d06737c279b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e9a95042eef1f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "decide theme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ec28796391ae956",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "decide theme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffee65fd6042638c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8830ef0b4eb90d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "decide theme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e398661d1a3fa93",
+  "lastOpenFiles": [
+    "kate-themes/solarized-light.theme",
+    "kate-themes/oblivion.theme",
+    "kate-themes/radical.theme",
+    "kate-themes/printing.theme",
+    "kate-themes/nord.theme",
+    "kate-themes/monokai.theme",
+    "kate-themes/homunculus.theme",
+    "kate-themes/gruvbox-light.theme",
+    "kate-themes/github-light.theme",
+    "kate-themes/falcon.theme",
+    "kate-themes/catppuccin-mocha.theme",
+    "doc/commands.md",
+    "decide theme.md",
+    "syntax-highlighting-master/utils/lexers_matcher/README.md",
+    "syntax-highlighting-master/docs/qml-api.md",
+    "syntax-highlighting-master/README.md",
+    "doc/quick-dirty/the-command.md",
+    "doc/quick-dirty/styles.css.md",
+    "doc/quick-dirty/metadata.yaml.md",
+    "doc/quick-dirty/brief-notes.md",
+    "doc/command-line-breakdown.md",
+    "doc/change log.md",
+    "doc/AYU THEME.md"
+  ]
+}
