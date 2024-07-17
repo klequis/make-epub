@@ -1,8 +1,5 @@
 
 
-Types are described: https://docs.kde.org/stable5/en/kate/katepart/highlight.html#kate-highlight-default-styles
-
-
 
 ## Attribute
  - #7d9029
