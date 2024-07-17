@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "47ffcaa7905eb94b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f33e733f40022a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f29b7956d93bb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AYU THEME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0789b65e465fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESOURCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c11336eeb7481344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AYU THEME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932e88d96f0dcb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "epub.css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3903103fc16e88b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c0e24945e6ed1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AYU THEME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "936bd9c9a9f42926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mod pygment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbdb6f1bcf05ad6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "938a5f1253c20609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a464e9d6225d0c83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1757833d99011ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0352db73be6ab44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8597bd3908af0be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b447f708097b865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4025a86f95d1bb59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mod pygment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bc0306cb9002860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mod pygment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45ef223fea8aa7cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "813af65948e22e93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mod pygment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "936bd9c9a9f42926",
+  "lastOpenFiles": [
+    "Pasted image 20240716170209.png",
+    "Pasted image 20240716165933.png",
+    "Pasted image 20240716165621.png",
+    "Pasted image 20240716165541.png",
+    "Pasted image 20240716165322.png",
+    "Pasted image 20240716165108.png",
+    "Untitled.md",
+    "mod pygment.md",
+    "Pasted image 20240716164343.png",
+    "Pasted image 20240716163234.png",
+    "Pasted image 20240716162915.png",
+    "Pasted image 20240716162603.png",
+    "Pasted image 20240716162338.png",
+    "AYU THEME.md",
+    "pygments.theme.md",
+    "lu495f7lza.tmp",
+    "pandoc-print/pygments.theme",
+    "pandoc-print/epub.css",
+    "pandoc-print",
+    "commands.md",
+    "pygments.theme",
+    "highlight-style.theme",
+    "epub.css.md",
+    "epub.css",
+    "pandoc-user-guide.pdf",
+    "change log.md",
+    "command-line-breakdown.md",
+    "fonts.md",
+    "Makefile.md",
+    "pandoc-book-template.md",
+    "things-i-may-need.md",
+    "RESOURCES.md"
+  ]
+}

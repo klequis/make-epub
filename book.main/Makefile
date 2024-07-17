@@ -15,6 +15,7 @@ IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = --webtex
+THEME_FILE = templates/new.theme
 
 # Chapters content
 CONTENT = awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(CHAPTERS)
@@ -38,7 +39,7 @@ PANDOC_COMMAND = pandoc
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
-EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --highlight-style templates/syntax.theme
+EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --highlight-style $(THEME_FILE)
 HTML_ARGS = --template templates/html.html --standalone --to html5
 PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
 
